@@ -7,3 +7,4 @@ Report Writing and Revisions: Update the previously written report on the Bisect
 Practical Application: Apply Newton's Method to solve specific problems from the textbook and analyze the results, including convergence behavior with different starting estimates.
 
 This project aims to provide hands-on experience with Newton's Method, enhance understanding of numerical methods, and improve the ability to critically compare different techniques for solving equations.
+ 
